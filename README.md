@@ -1,2 +1,2 @@
 # 100-days-projects
-Python is place where I express myself.
+trying to build my basics
