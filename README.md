@@ -1,2 +1,2 @@
 # 100-days-projects
-trying to build my basics
+here i build my basic strong
